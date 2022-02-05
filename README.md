@@ -86,7 +86,7 @@ There are 4 types of graded sections.
 
 ## Production Process
 
-![Production Process](https://drive.google.com/file/d/1trGqOigzs2YeZEm_9osv1kFUb1A4woyL/view?usp=sharing)
+![Production Process](./Images/ProductionProcess01.png)
 
 ### Outline the Course
 
@@ -152,7 +152,7 @@ Each section also has its own folder in the Curriculum Drive. The following belo
 
 #### Process Overview
 
-![Process Diagram](https://drive.google.com/file/d/1tu-YRn4iCHJRYpy0N_TT8ljjtNAhb0mg/view?usp=sharing)
+![Process Diagram](./Images/ProcessDiagram.png)
 
 #### Outline and Preparing Content
 
