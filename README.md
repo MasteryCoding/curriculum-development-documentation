@@ -177,7 +177,7 @@ Videos always begin with the MC intro. Intro assets can be found [here](https://
 
 Once the edited video is approved by the course writer, the course writer creates a markdown document with all the necessary information. The video document template can be found [here](https://drive.google.com/file/d/10WsOKaPhTq-XfjSAo6lT09OF2JZQXVlD/view?usp=sharing).
 
-### Preparing Front Facing Materials
+### Preparing Forward Facing Materials
 
 After a Unit is finished, the course writier will provide a number of resources for the Marketing and Sales teams to use in sales enablement materials. 
 
@@ -196,7 +196,7 @@ These materials will be placed in a folder named **Projects** located in the rel
 * At least 1 video of the project
 * At least 1 gif
 * 2 or more still images
-* Finihsed project files or assets used in the project
+* Finished project files or assets used in the project
 
 Provide a link to the project sub-folder in the [Student Projects/Curriculum Samples](https://docs.google.com/spreadsheets/d/1tM8de7fwsShPdjLeq4Jymjk4C-81cZIWBRvrgLedoNA/edit#gid=1245108391) spreadsheet.
 
