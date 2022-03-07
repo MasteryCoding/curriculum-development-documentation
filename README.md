@@ -190,7 +190,7 @@ Within each Unit, course writers provide a document with:
 
 #### Project Samples
 
-These materials will be placed in a folder named **Project Samples** located in the relevant Unit. Within this folder, each project will have its own sub-folder, named after the project, which should include:
+These materials will be placed in a folder named **Projects** located in the relevant Unit. Within this folder, each project will have its own sub-folder, named after the project, which should include:
 
 * Project description document (paragraph with a summarizing the project, what it is and what it teaches)
 * At least 1 video of the project
