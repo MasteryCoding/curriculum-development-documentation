@@ -11,16 +11,15 @@ The purpose of this document is to outline the curriculum production process, de
 
 ---
 
-* [Course Structure](course-structure)
-  * [Unit](unit)
-  * [Chapter](chapter)
-  * [Section](section)
-* [Production Process](production-process)
-  * [Outline the Course](outline-the-course)
-  * [Outline Units](outline-units)
-  * [Building out a Unit](building-out-a-unit)
-  * [Writing a Section](writing-a-section)
-* [Material Standards](material-standards)
+* [Course Structure](https://github.com/MasteryCoding/curriculum-development-documentation#course-structure)
+  * [Unit](https://github.com/MasteryCoding/curriculum-development-documentation#unit)
+  * [Chapter](https://github.com/MasteryCoding/curriculum-development-documentation#chapter)
+  * [Section](https://github.com/MasteryCoding/curriculum-development-documentation#section)
+* [Production Process](https://github.com/MasteryCoding/curriculum-development-documentation#production-process)
+  * [Outline the Course](https://github.com/MasteryCoding/curriculum-development-documentation#outline-the-course)
+  * [Building out a Unit](https://github.com/MasteryCoding/curriculum-development-documentation#building-out-a-unit)
+  * [Writing a Video Section](https://github.com/MasteryCoding/curriculum-development-documentation#writing-a-video-section)
+* [Material Standards](https://github.com/MasteryCoding/curriculum-development-documentation#material-standards)
 
 ## Course Structure
 
@@ -118,7 +117,7 @@ Curriculum writers scan through these existing Curriculum Objectives and compile
 
 Our courses are fundamentally meant to be **project-based**. This is a good stage to start considering what types of projects, either large or small, can be used to meet the outlined Curriculum Objectives.
 
-Prototyping the project at this stage helps guide finer outlining in the following steps. Once a prototype is created and receives approval, it should be added to a GitHub repository along with all necessary assets and a walk through document of the building process. This will help aid in outlining the chapters and sections and planning the recording process as well as serve as a reference for teachers to gain an understanding of how the project was built.
+Prototyping the project at this stage helps guide finer outlining in the following steps. Once a prototype is created and receives approval, it should be *added to a GitHub repository along with all necessary assets and a walk through document of the building process.* This will help aid in outlining the chapters and sections and planning the recording process as well as serve as a reference for teachers to gain an understanding of how the project was built.
 
 Example project GitHub repo: [Roll-a-Ball-Walkthrough](https://github.com/jerazost/Roll-a-Ball-Walkthrough)
 
@@ -177,6 +176,29 @@ Videos always begin with the MC intro. Intro assets can be found [here](https://
 #### Markdown
 
 Once the edited video is approved by the course writer, the course writer creates a markdown document with all the necessary information. The video document template can be found [here](https://drive.google.com/file/d/10WsOKaPhTq-XfjSAo6lT09OF2JZQXVlD/view?usp=sharing).
+
+### Preparing Front Facing Materials
+
+After a Unit is finished, the course writier will provide a number of resources for the Marketing and Sales teams to use in sales enablement materials. 
+
+#### Unit/Chapter Descriptions
+
+Within each Unit, course writers provide a document with:
+
+* Unit Summary: 2-3 sentenses listing clear student outcomes for the Unit. (What will students be able to do by the end of that Unit?) May also include short description of projects completed in the Unit.
+* Chapter Summary: 1 sentense summary of student learning outcomes for the Chapter.
+
+#### Project Samples
+
+These materials will be placed in a folder named **Project Samples** located in the relevant Unit. Within this folder, each project will have its own sub-folder, named after the project, which should include:
+
+* Project description document (paragraph with a summarizing the project, what it is and what it teaches)
+* At least 1 video of the project
+* At least 1 gif
+* 2 or more still images
+* Finihsed project files or assets used in the project
+
+Provide a link to the project sub-folder in the [Student Projects/Curriculum Samples](https://docs.google.com/spreadsheets/d/1tM8de7fwsShPdjLeq4Jymjk4C-81cZIWBRvrgLedoNA/edit#gid=1245108391) spreadsheet.
 
 ## Material Standards
 
