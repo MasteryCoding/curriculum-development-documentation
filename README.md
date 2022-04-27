@@ -202,7 +202,9 @@ Provide a link to the project sub-folder in the [Student Projects/Curriculum Sam
 
 ## Material Standards
 
-### Markdown Document
+### Resource Tabs
+
+When entering content into the classroom platform, use the following resouce tab names. In the markdown editor, start with level 3 headings (###).
 
 #### Lesson
 
