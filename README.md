@@ -169,17 +169,20 @@ Once a take is recorded, it is passed onto a reviewer. If approved, it will move
 
 After recording is finished, the writer will include a .zip file of the project (in the state it is at the end of the lesson) in the Resources folder.
 
-#### Editing
+#### Video Editing
 
 Videos always begin with the MC intro. Intro assets can be found [here](https://drive.google.com/drive/folders/1dsiglRZ1yhwXgURQCFF-V3kr62q-o_VV?usp=sharing).
 
-#### Markdown
+#### Final Pass
 
-Once the edited video is approved by the course writer, the course writer creates a markdown document with all the necessary information. The video document template can be found [here](https://drive.google.com/file/d/10WsOKaPhTq-XfjSAo6lT09OF2JZQXVlD/view?usp=sharing).
+Once the edited video is approved by the course writer, the course writer creates the section in the Classroom. This step entails:
 
-### Preparing Forward Facing Materials
+* Captioning the video on Rev.com
+* Filling out the Lesson tab and any other relevant or necessary Resource Tabs
 
-After a Unit is finished, the course writier will provide a number of resources for the Marketing and Sales teams to use in sales enablement materials. 
+### Preparing Marketing Materials
+
+After a Unit is finished, the course writier will provide a number of resources for the Marketing and Sales teams to use in sales enablement materials.
 
 #### Unit/Chapter Descriptions
 
@@ -208,7 +211,7 @@ When entering content into the classroom platform, use the following resouce tab
 
 #### Lesson
 
-Present on all document and video sections. In a Document section, this is the main body of the page. In a Video section, this is the portion below the video. Any information necessary to complete the section belongs in here, including any required reading or assignment instructions.
+Present on all document and video sections. In a Document section, this is the main body of the page. Any information necessary to complete the section belongs in here, including any required reading or assignment instructions. In a Video section, reiterate any actions students must take to mark the section complete (example: Create script A and ensure it functions correctly).
 
 #### Vocabulary
 
@@ -244,7 +247,6 @@ List of resources for the lesson including downloadable PDF/PowerPoint files of 
 An embedded image of the project/assignment rubric and a download link for the rubric PDF.
 
 #### Challenge
-
 
 ## Tips
 
